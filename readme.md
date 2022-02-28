@@ -1,8 +1,8 @@
-<h1 align="center"><b>❤️ ALEXA MUSIC BOT ❤️</b></h1>
+<h1 align="center"><b>❤️ 『𝙿𝚁𝙸𝙽_𝚂𝙴𝙲𝙲✰』 MUSIC BOT ❤️</b></h1>
 
 <h4 align="center">Alexa A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/83a547c997953a4d75d87.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/i_Ajit"><img src="https://telegra.ph/file/14fa919da2cddbf8504d0.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://app.codacy.com/manual/jankarikiduniya/AlexaMusicBot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
