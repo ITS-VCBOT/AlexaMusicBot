@@ -1,6 +1,6 @@
 <h1 align="center"><b>❤️ 『𝙿𝚁𝙸𝙽_𝚂𝙴𝙲𝙲✰』 MUSIC BOT ❤️</b></h1>
 
-<h4 align="center">Alexa A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
+<h4 align="center">『𝙿𝚁𝙸𝙽_𝚂𝙴𝙲𝙲✰』 A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
 <p align="center"><a href="https://t.me/i_Ajit"><img src="https://telegra.ph/file/14fa919da2cddbf8504d0.jpg" width="400"></a></p>
 
